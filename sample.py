@@ -1,4 +1,3 @@
-
 from getAppCubes import getAppCubes
 
 def dump(text, var):
